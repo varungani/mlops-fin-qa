@@ -1,0 +1,6 @@
+requests
+streamlit
+os
+openai
+python-dotenv
+pytest
